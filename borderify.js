@@ -1,6 +1,6 @@
 
 
-//document.body.style.colori = "30px";
+//document.body.style.fontSize = "30px";
 
 
 
