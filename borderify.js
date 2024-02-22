@@ -3,11 +3,21 @@
 //document.body.style.fontSize = "30px";
 //7f6896d28dd2159027258cfb6ecc8c0d0ad8c580
 
-function alrtme(){
+//document.body.style.fontSize = "30px";
+//7f6896d28dd2159027258cfb6ecc8c0d0ad8c580
+
+function alret_me(){
+alert("hello world");
+}
+
+function inform_me(){
 alert("hello world");
 }
 
 
+function inform_me2(){
+alert("hello world2");
+}
 
 
 
