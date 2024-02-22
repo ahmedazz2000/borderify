@@ -10,6 +10,10 @@ function alret_me(){
 alert("hello world");
 }
 
+function alret_me2(){
+alert("hello world2");
+}
+
 function inform_me(){
 alert("hello world");
 }
