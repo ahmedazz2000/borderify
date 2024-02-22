@@ -3,7 +3,9 @@
 //document.body.style.fontSize = "30px";
 
 
-
+function alrtme(){
+alert("hello world");
+}
 
 
 
